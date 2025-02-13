@@ -8,3 +8,5 @@ This PowerPoint presentation template has been specifically created for graduate
 2️⃣ Install the Pretendard font <sup>[**link**](https://cactus.tistory.com/306)</sup>  
 3️⃣ Open the template file in PowerPoint  
 4️⃣ Edit the content as needed! 🎨
+
+## Preview
